@@ -1,4 +1,4 @@
-# Página de Perritos creada por HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO
+# Página Web de Perritos creada por HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO
 
 
 ## **ÍNDICE**
