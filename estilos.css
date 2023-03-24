@@ -1,0 +1,27 @@
+body{
+    background-color: #000000;
+    color: #ff0037;
+    font-family: 'Titan One', cursive;
+}
+
+
+h1, li{
+    color:#ffffff;
+}
+
+h3{
+    font: size 35px;
+}
+
+img{
+    width: 250px;
+    height: 200px;
+    border-style: double;
+    border-width: 5px;
+    padding: 3px;
+    margin: 30px;
+}
+
+footer{
+    background-color: #4e4646;
+}
