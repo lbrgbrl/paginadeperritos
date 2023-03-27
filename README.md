@@ -17,7 +17,7 @@ HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los d
 En este proyecto me enfoqué en construir una Página Web de Perritos.
 Contiene las siguientes secciones:
 
-* Header: Sección que involucra el título principal
+* Header: Sección que involucra el título principal.
 
 * Main: Sección del contenedor para los elementos centrales de la página: Imágenes, subtítulos y listas, tanto ordenadas como desordenadas y de casillas para marcar.
 
